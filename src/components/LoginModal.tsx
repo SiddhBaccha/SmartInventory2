@@ -106,11 +106,6 @@ export function LoginModal({ onLogin }: LoginModalProps) {
               </>
             )}
           </button>
-        </form>
-
-        <div className="mt-6 text-center">
-          <p className="text-slate-500 text-sm font-medium">
-            Demo credentials: himanshusinghdon29@gmail.com / 8896230383
           </p>
         </div>
       </div>
